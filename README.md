@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a postdoctoral fellow at the University of Washington [eScience Institute](https://escience.washington.edu), where I develop statistical learning techniques and software for the analysis of neuroimaging data 🧠.
+I am a postdoctoral scholar in the [Brain Development and Education Lab](https://www.brainandeducation.com/) in the [Division of Developmental-Behavioral Pediatrics](https://dbpeds.stanford.edu/) at Stanford University, where I develop statistical learning techniques and software for the analysis of neuroimaging data 🧠.
 
 You can find out more about me at [my personal website](https://richiehalford.org/).
 
