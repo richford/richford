@@ -4,4 +4,4 @@ I'm the Director of Technology and Innovation for the [Rapid Online Assessment o
 
 You can find out more about me at [my personal website](https://richiehalford.org/).
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=richford)](https://github.com/richford/github-readme-stats)
+![Stats](./profile/stats.svg)
