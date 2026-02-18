@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a research scientist in the [Brain Development and Education Lab](https://www.brainandeducation.com/) in the [Graduate School of Education](https://ed.stanford.edu/) at Stanford University. I lead the technical development of a web-based assessment platform for the deep phenotyping of dyslexia 📖. I also develop statistical learning techniques and software for the analysis of neuroimaging data 🧠.
+I'm the Director of Technology and Innovation for the [Rapid Online Assessment of Reading (ROAR)](https://roar.stanford.edu/) in the [Graduate School of Education at Stanford University](https://ed.stanford.edu/). There, I lead the technical development of web-based reading assessments and the data/analytics pipelines that support research at scale. My work sits at the intersection of educational technology, statistical learning, and neuroimaging, building tools that are rigorous enough for science and practical enough for real-world deployment. I also contribute to open-source scientific software for reproducible analysis.
 
 You can find out more about me at [my personal website](https://richiehalford.org/).
 
