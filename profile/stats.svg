@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Adam Richie-Halford's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 30, Total Commits  (last year) : 279, Total PRs: 882, Total Issues: 389, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 30, Total Commits  (last year) : 279, Total PRs: 883, Total Issues: 389, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 76.55717857830251;
+        stroke-dashoffset: 76.55717434324433;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >882</text>
+      >883</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
